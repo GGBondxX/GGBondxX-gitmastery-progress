@@ -1,0 +1,29 @@
+[
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1769008946.493737,
+    "completed_at": 1769008950.876126,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1769009361.14489,
+    "completed_at": 1769009368.007767,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1768995750.260255,
+    "completed_at": 1768995755.003134,
+    "comments": [
+      "You have successfully undone the init operation!"
+    ],
+    "status": "Completed"
+  }
+]
